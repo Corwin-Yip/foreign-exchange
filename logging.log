@@ -1,0 +1,5 @@
+INFO  | 2024-05-26 00:23:15 | [main] Yip.TransactionProcessor (TransactionProcessor.java:46) - Sucess transaction: Bob has convert 100.0 cad to 76.98446412819399 usd
+INFO  | 2024-05-26 00:23:15 | [main] Yip.TransactionProcessor (TransactionProcessor.java:46) - Sucess transaction: Susan has convert 20.0 cad to 15.171403718926795 eur
+INFO  | 2024-05-26 00:23:15 | [main] Yip.TransactionProcessor (TransactionProcessor.java:24) - SKIP: Same Currency, no transaction is needed 
+INFO  | 2024-05-26 00:23:15 | [main] Yip.TransactionProcessor (TransactionProcessor.java:46) - Sucess transaction: Bob has convert 30.0 usd to 235.463375393127 hkd
+INFO  | 2024-05-26 00:23:15 | [main] Yip.TransactionProcessor (TransactionProcessor.java:46) - Sucess transaction: Bob has convert 184.0 hkd to 32233.111361339234 krw
